@@ -1,3 +1,5 @@
+# Angry Birds
+
 - Nivells llegits per JSON: Els JSON son llegits al carregar el programa, i cada un dels nivells és carregat al ser seleccionat.
 - Llençament de l'ocell des del tirador: S'ha fet que els ocells només surtin quan l'origen es troba situat en el tiraxines.
 - Sistema de puntuació: S'ha creat un simple sistema de puntuació basat en "ocells disponibles". Quants més porcs derrotis més ocells podràs llençar. Si et quedes sense punts, perds. L'objectiu és aconseguir la màxima puntuació possible.
