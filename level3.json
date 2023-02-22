@@ -1,0 +1,46 @@
+{
+    "boxes":[
+        {
+            "type":"tnt",
+            "position":[1200, 600],
+            "size":[84, 84]
+        },
+        {
+            "type":"bedrock",
+            "position":[1200, 515],
+            "size":[84, 84]
+        },
+        {
+            "type":"gel",
+            "position":[600, 515],
+            "size":[84, 84]
+        },
+        {
+            "type":"metall",
+            "position":[1000, 600],
+            "size":[84, 84]
+        },
+        {
+            "type":"lava",
+            "position":[800, 600],
+            "size":[84, 84]
+        }
+    ],
+    "pigs":[
+        {
+            "type":"hat",
+            "position":[1200, 430],
+            "radius":85
+        }
+    ],
+    "boundaries":[
+        {
+            "position":[0, 675],
+            "size":[5000, 10]
+        },
+        {
+            "position":[1756, 0],
+            "size":[10, 3000]
+        }
+    ]
+}
