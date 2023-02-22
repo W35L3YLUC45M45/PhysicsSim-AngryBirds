@@ -1,5 +1,7 @@
 # Angry Birds
 
+PROJECT DEVELOPED BY: Arnau Metaute and Wesley Lucas
+
 - Levels read by JSON: The JSONs are read when loading the program, and each of the levels is loaded when selected.
 - Throwing the bird from the shooter: Made the birds only come out when the origin is located in the slingshot.
 - Scoring System: Created a simple scoring system based on "birds available". The more pigs you defeat the more birds you can throw. If you run out of points, you lose. The goal is to get the highest possible score.
